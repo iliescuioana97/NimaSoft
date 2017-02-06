@@ -12,9 +12,7 @@
             <div class="grid_4">
                 <ul class="list left-block">
                     <li>
-                        <a href="#">
                             <p>Simulate business process automation</p>
-                        </a>
                 </ul>
             </div>
         </div>
@@ -27,9 +25,7 @@
             <div class="grid_4">
                 <ul class="list left-block">
                     <li>
-                        <a href="#">
                             <p>Minimize development risks</p>
-                        </a>
                 </ul>
             </div>
         </div>
@@ -43,9 +39,7 @@
             <div class="grid_4">
                 <ul class="list left-block">
                     <li>
-                        <a href="#">
                             <p>Control investments</p>
-                        </a>
                 </ul>
             </div>
         </div>
@@ -59,9 +53,7 @@
             <div class="grid_4">
                 <ul class="list left-block">
                     <li>
-                        <a href="#">
                             <p>Clickable wireframes + applied visual</p>
-                        </a>
                 </ul>
             </div>
         </div>
@@ -74,9 +66,7 @@
             <div class="grid_4">
                 <ul class="list left-block">
                     <li>
-                        <a href="#">
                             <p>Static mockups</p>
-                        </a>
                 </ul>
             </div>
         </div>
@@ -90,14 +80,12 @@
             <div class="grid_4">
                 <ul class="list left-block">
                     <li>
-                        <a href="#">
                             <p>Requirements management</p>
-                        </a>
                 </ul>
             </div>
         </div>
 
-        <p class="serviceBlock">If you have a general idea and vision of future software, website or system, Itransition can help define, verify and formalize these requirements.
+        <p class="serviceBlock">If you have a general idea and vision of future software, website or system, NimaSoftware can help define, verify and formalize these requirements.
         </p> </br>
 
 
@@ -107,16 +95,14 @@
             <div class="grid_4">
                 <ul class="list left-block">
                     <li>
-                        <a href="#">
                             <p>Specification</p>
-                        </a>
                 </ul>
             </div>
         </div>
 
-        <p class="serviceBlock">Specification for your future system is made as detailed as possible to ensure all your specific elements are included and emphasized. Our dedicated and professional Quality Assurance team guarantees excellent quality of the documentation. </br> </br>
+        <p class="serviceBlock">Specification for your future system is made as detailed as possible to ensure all your specific elements are included and emphasized. Our dedicated and professional team guarantees excellent quality of the documentation. </br> </br>
             When to use? </br>
-            Always. If you still do not have detailed requirements specifications for your future software or have some doubts about the existing one, Itransition's team can help create it from scratch or examine your documentation to ascertain whether it matches your business and technological demands or not.
+            Always. If you still do not have detailed requirements specifications for your future software or have some doubts about the existing one, NimaSoftware team can help create it from scratch or examine your documentation to ascertain whether it matches your business and technological demands or not.
         </p> </br>
 
 
@@ -124,9 +110,7 @@
             <div class="grid_4">
                 <ul class="list left-block">
                     <li>
-                        <a href="#">
                             <p>Static mockups (sketches)</p>
-                        </a>
                 </ul>
             </div>
         </div>
@@ -134,21 +118,18 @@
         <p class="serviceBlock">
             A cost-effective and time-saving method to avoid misunderstandings with a development team in the future. We create a static application model that outlines major functionality features and focuses on core interdependencies between application modules. </br></br>
 
-        </p> </br>
-
+        </p> 
 
         <div class="row">
             <div class="grid_4">
                 <ul class="list left-block">
                     <li>
-                        <a href="#">
                             <p>Clickable wireframes</p>
-                        </a>
                 </ul>
             </div>
         </div>
 
-        <p class="serviceBlock">If you have a general idea and vision of future software, website or system, Itransition can help define, verify and formalize these requirements.
+        <p class="serviceBlock">If you have a general idea and vision of future software, website or system, NimaSoftware can help define, verify and formalize these requirements.
         </p> </br>
 
 
