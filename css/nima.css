@@ -26,25 +26,9 @@ and open the template in the editor.
     margin-right:55px;
 }
 
-#gridOne {
-    margin-left: 75px;
-}
-
-.team-part2 {
-    margin-left: 100px;
-}
 
 .container ul li.active a, .container ul li a:hover {
     text-decoration:none;
     color:#c93b30;
-}
-
-.serviceBlock {
-    margin-left: 20px;
-    margin-right: 100px;
-}
-
-.serviceTitle {
-    margin-left: 50px;
 }
 

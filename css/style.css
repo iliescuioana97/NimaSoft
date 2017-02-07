@@ -51,10 +51,6 @@ h2{
     font-weight: 700;
 }
 
-.team-title {
-    margin-left:300px;
-}
-
 h3{
     font-size: 30px;
     line-height: 30px;
@@ -145,6 +141,11 @@ header img{
 
 .row_block__indent-3{
     padding: 59px 0;
+}
+
+.row_block__indent-5{
+    margin-bottom: 40px;
+    margin-top: 40px;
 }
 
 .row-with-strip .container{
@@ -419,7 +420,6 @@ blockquote a:hover:after{
 }
 
 .team-title {
-    margin-left: 470px;
     margin-bottom: 90px;
 }
 
@@ -935,18 +935,8 @@ footer{
 /*Core variables and mixins*/
 .box1, .box2 {
     display: inline-block;
-    width:450px;
-    margin-left: 100px;
-    margin-top:30px;
-}
-
-.box1 {
-    margin-left: 20px;
 }
 
 .box3_1, .box3_2, .box3_3 {
     display: inline-block;
-    width:300px;
-    margin-left: 50px;
-    margin-top:30px;
 }

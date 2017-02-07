@@ -1,5 +1,6 @@
 <?php include 'top.php' ?>
 <?php include 'header.php' ?>
+     <title>NimaSoftware - Services</title>
 
 <!--======= Content ================================-->
 
@@ -89,7 +90,7 @@
                 </div>
             </div>
             <div class="grid_4 left-block__device-1">
-                <img id="imgservicii" src="images/servicii.jpg" alt="">
+                <img id="imgservicii" src="images/servicii_res.jpg" alt="">
             </div>
         </div>
     </div>

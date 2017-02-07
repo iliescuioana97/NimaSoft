@@ -1,14 +1,14 @@
 
 <?php include 'top.php' ?>
 <?php include 'header.php' ?>
-
+     <title>NimaSoftware - Home</title>
 
 <!--======= Content ================================-->
 
 <!--========= Showcase =========-->
 
 <div class="showcase">
-    <img src="images/frontpageimg.jpg" alt="">
+    <img src="images/frontpageimg_res.jpg" alt="">
     <div class="container">
         <div class="showcase_text">
             <h2 class="slogan__style-1">WE WILL</h2>
@@ -36,8 +36,8 @@
                     <p>Nima Software is a driven and innovative provider of software development services with a young, resourceful and curious team of engineers. We plan on changing the world bit by bit, using technology to improve our daily lives. Join us on our adventure towards progress and discovery!  </p>                    
                 </div>
             </div>
-            <div class="grid_3 left-block__device-1"><img src="images/Nima2.jpg" alt=""></div>
-            <div class="grid_3 left-block__device-1"><img src="images/Nima1-res.jpg" alt=""></div>            
+            <div class="grid_3 left-block__device-1"><img src="images/Nima2_res.jpg" alt=""></div>
+            <div class="grid_3 left-block__device-1"><img src="images/Nima1_res.jpg" alt=""></div>            
         </div>   
     </div>
 </div>
@@ -66,9 +66,7 @@
                             <div class="maxheight">
                                 <img src="images/page-1_img-4.png" alt="" class="blocks-list_img">
                                 <div class="blocks-list_text">
-                                    <h4>
-                                        <a href="#">Dedicated Development Team</a>
-                                    </h4>
+                                    <h4>Dedicated Development Team</h4>
                                     <p>We have an ever-growing team of young and receptive engineers, willing to satisfy all of our customers' needs.</p>                            
                                 </div>
                             </div>
@@ -79,9 +77,7 @@
                             <div class="maxheight">
                                 <img src="images/page-1_img-5.png" alt="" class="blocks-list_img">
                                 <div class="blocks-list_text">
-                                    <h4>
-                                        <a href="#">Software QA & Testing</a>
-                                    </h4>
+                                    <h4>Software QA & Testing</h4>
                                     <p>At Nima Software we make sure that the software products we deliver to you is thoroughly tested by our team.</p>                            
                                 </div>
                             </div>
@@ -92,9 +88,7 @@
                             <div class="maxheight">
                                 <img src="images/page-1_img-6.png" alt="" class="blocks-list_img">
                                 <div class="blocks-list_text">
-                                    <h4>
-                                        <a href="#">Software Product Development</a>
-                                    </h4>
+                                    <h4>Software Product Development</h4>
                                     <p>We are fully equipped to deliver first-class services that result in improved business efficiency, increased cost-effectiveness, risk mitigation for our clients.</p>                            
                                 </div>
                             </div>
@@ -105,9 +99,7 @@
                             <div class="maxheight">
                                 <img src="images/page-1_img-7.png" alt="" class="blocks-list_img">
                                 <div class="blocks-list_text">
-                                    <h4>
-                                        <a href="#">Mobile Application Development</a>
-                                    </h4>
+                                    <h4>Mobile Application Development</h4>
                                     <p>We create responsive software products, that adapt perfectly to any mobile device . We can ensure the high quality of our mobile development solutions.</p>                            
                                 </div>
                             </div>

@@ -1,5 +1,6 @@
 <?php include 'top.php' ?>
 <?php include 'header.php' ?>
+     <title>NimaSoftware - Contact</title>
 
 
 <!--======= Content ================================-->

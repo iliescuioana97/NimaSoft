@@ -1,17 +1,36 @@
 <?php include 'top.php' ?>
 <?php include 'header.php' ?>
-
+<title>NimaSoftware - Services</title>
 
 <div class="row-with-strip row_block row_block__indent-1 row__style gallery thumbs">
     <div class="container" id="tabs">
         <div class="left-strip"></div>
-        <h3 class="serviceTitle">Technology Consulting</h3></br>
-        <p class="serviceBlock">As an essential and integral part of your business strategy, your IT infrastructure should serve as a strong central nervous system that interacts with your employees, clients, suppliers, media and management. </br> </br>
-            From resolving specific IT-related issues to strategic business transformation fueled by IT, we deliver technology consulting services to companies across multiple domain areas. We are aimed to become your reliable IT partner with the functional know-how, detailed understanding, resources and in-depth expertise to ensure that your business, management and staff use Information Technology efficiently, effectively and in-line with your goals and business challenges.</br></br>
-            With experience in software development, implementation, quality assurance and software support, our advisory services are built on a deep understanding of all business and functional requirements as well as ambiguous nuances of business workflows.
-            We offer comprehensive software services that cover the full development and implementation cycle of your IT project including a full range of consulting services. </br> </br>
-            IT Consulting Services help businesses develop a competitive advantage by providing assistance and guidance to allow business owners better understand and leverage the potential of information technologies and enable them to make informed decisions for their businesses at every stage of the business life cycle. </br></br>
-            Our technological expertise and in-depth understanding of business processes let us tackle each complex situation that the business will encounter during each stage of the business life cycle. The main goal and expected result of such engagements is business operations optimization, better cost and resource efficiency. These stages include:
+        <h3 class="preffix_0">Application Security</h3></br>
+        <p class="preffix_0 grid_10">Application security encompasses measures taken throughout the code's life-cycle to prevent gaps in the security policy of an application or the underlying system (vulnerabilities) through flaws in the design, development, deployment, upgrade, or maintenance or database of the application.
+        </p> </br>
+
+        <div class="preffix_0 row_block__indent-5 row_block__indent-1">
+            <div class="grid_3">        
+                <h4>Application Security Platform</h4>
+                </br>
+                <p>We offer a holistic, scalable way to manage security risk across your entire application portfolio.</p>
+                </br>
+            </div>
+
+            <div class="grid_3 preffix_03">
+                <h4>Static Analysis</h4>
+                </br>
+                <p>enables your developers to quickly identify and remediate application security flaws throughout your SDLC without having to manage a tool.</p>
+            </div>
+
+            <div class="grid_3 preffix_03">
+                <h4>Web Application Scanning</h4>
+                </br>
+                <p>offers a unified solution to find, secure, and monitor web applications, both in production and as part of your SDLC.</p>
+            </div>
+        </div>
+
+        <p class="preffix_0 grid_10 row_block__indent-1">Application security encompasses measures taken throughout the code's life-cycle to prevent gaps in the security policy of an application or the underlying system (vulnerabilities) through flaws in the design, development, deployment, upgrade, or maintenance or database of the application.
         </p> </br>
 
     </div>

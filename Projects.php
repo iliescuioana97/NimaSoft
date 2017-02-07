@@ -1,5 +1,6 @@
 <?php include 'top.php' ?>
 <?php include 'header.php' ?>
+<title>NimaSoftware - Projects</title>
 <!--======= Content ================================-->
 
 <!--========= Gallery =========-->
@@ -7,15 +8,10 @@
 <div class="row-with-strip row_block row_block__indent-1 row__style gallery thumbs">
     <div class="container" id="tabs">
         <div class="left-strip"></div>
-        <h3>Latest Projects</h3>
-        <ul class="gallery-cat">
-            <li class="selected"><a href="#tabs-1">Show All</a></li>
-            <li><a href="#tabs-2">First Category</a></li>
-            <li><a href="#tabs-3">Second Category</a></li>
-            <li><a href="#tabs-4">Third Category</a></li>
-        </ul>
+        <h3 class="preffix_4">Our Latest Projects</h3>
+
         <div class="row tab-content"  id="tabs-1">
-            <div class="grid_4">
+            <div class="grid_12">
                 <div class="left-block">
                     <div class="info-col_col info-col_col__img-indent bg">
                         <div class="box">
@@ -28,42 +24,6 @@
                                 </a>
                                 <a href="#"><h4>Vestibulum</h4></a>
                                 <p>Eit amet, conse ctetur adipiscing elit. Curabitur faucibus, turpisert idert malesuadacomm tortorapienvenenatis massa a tincidunt dui eros vitae dolorauris</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="grid_4">
-                <div class="left-block">
-                    <div class="info-col_col info-col_col__img-indent bg">
-                        <div class="box">
-                            <div class="maxheight">
-                                <a href="images/gallery/page-4_img-2_b.jpg" class="thumbs_img">
-                                    <div>
-                                        <div class="lbHover"><span>+</span></div>
-                                        <img src="images/page-4_img-2.jpg" alt="">
-                                    </div>
-                                </a>
-                                <a href="#"><h4>Consectetuer</h4></a>
-                                <p>Curabitur faucibus, turpisert idert males uadacommtortor apienvenenatis massaa tincidunt dui eros vitae dolor auris consequat tortor non turpis</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="grid_4">
-                <div class="left-block">
-                    <div class="info-col_col info-col_col__img-indent bg">
-                        <div class="box">
-                            <div class="maxheight">
-                                <a href="images/gallery/page-4_img-3_b.jpg" class="thumbs_img">
-                                    <div>
-                                        <div class="lbHover"><span>+</span></div>
-                                        <img src="images/page-4_img-3.jpg" alt="">
-                                    </div>
-                                </a>
-                                <a href="#"><h4>Adipiscing elit</h4></a>
-                                <p>Clesuadacomm tortorapienvenenatis massaa tincidunt dui eros vitae dolora uris consequat tortor non turpis vestibu lum ullamcorper. Proin quis faubus </p>
                             </div>
                         </div>
                     </div>

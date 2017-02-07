@@ -165,6 +165,12 @@ table {
 .container {
   width: 1132px;
 }
+
+.grid_13 {
+  width: 1132px;
+  height: 300px;
+}
+
 .grid_12 {
   width: 1132px;
 }
@@ -223,7 +229,7 @@ table {
   margin-left: 596px;
 }
 .preffix_5 {
-  margin-left: 500px;
+  margin-left: 480px;
 }
 .preffix_4 {
   margin-left: 404px;
@@ -237,6 +243,15 @@ table {
 .preffix_1 {
   margin-left: 116px;
 }
+
+.preffix_01 {
+    margin-left: 72px;
+  }
+
+.preffix_0 {
+    margin-left: 50px;
+  }
+
 .container {
   margin-right: auto;
   margin-left: auto;
@@ -254,6 +269,26 @@ table {
 .container:after {
   clear: both;
 }
+
+@media (min-width: 1200px) and (max-width: 1440px) {
+  
+  .preffix_01 {
+    margin-left: 150px;
+  }
+  
+  .preffix_3 {
+    margin-left: 300px;
+  }
+  
+  .preffix_02 {
+    margin-left: 330px;
+  }
+  
+  .grid_9 {
+      width: 800px;
+  }
+}
+
 @media (min-width: 980px) and (max-width: 1199px) {
   .row {
     margin-left: -20px;
@@ -347,6 +382,22 @@ table {
   }
   .preffix_1 {
     margin-left: 100px;
+  }
+  
+  .preffix_01 {
+    margin-left: 20px;
+  }
+  
+  .preffix_02 {
+    margin-left: 150px;
+  }
+  
+  .preffix_0 {
+    margin-left: 50px;
+  }
+  
+   .preffix_03 {
+    margin-left: 50px;
   }
 }
 @media (min-width: 768px) and (max-width: 979px) {
@@ -443,6 +494,22 @@ table {
   .preffix_1 {
     margin-left: 84px;
   }
+  
+  .preffix_01 {
+    margin-left: 10px;
+  }
+  
+  .preffix_0 {
+    margin-left: 50px;
+  }
+  
+  .preffix_02 {
+    margin-left: 100px;
+    
+    .preffix_03 {
+    margin-left: 80px;
+  }
+  }
 }
 .select-menu {
   display: none !important;
@@ -472,6 +539,64 @@ table {
   body {
     padding: 0;
   }
+  
+   .preffix_5 {
+    margin-left: 35px;
+  }
+  
+    .preffix_3 {
+    margin-left: 70px;
+  }
+  
+   .preffix_1 {
+    margin-left: 70px;
+  }
+  
+   
+  .preffix_0 {
+    margin-left: 40px;
+  }
+  
+  .preffix_01 {
+    margin-left: 40px;
+  }
+  
+  .preffix_02 {
+    margin-left: 40px;
+  }
+  
+  .preffix_4 {
+   margin-left: 70px;
+  }
+  
+  .grid_5
+  {
+      width: 230px;
+  }
+  
+    .grid_10 {
+    width: 200px;
+  }
+  
+   .grid_9 {
+    width: 320px;
+  }
+  
+  
+  #service5-1 {
+    margin-left: 40px;
+    width: 250px;
+  }
+  
+  #service5-2 {
+    margin-left: 40px;
+    width: 250px;
+  }
+  
+  #service7 {
+      margin-left: 40px;
+  }
+  
   .container {
     width: 300px;
     padding: 0 15px;

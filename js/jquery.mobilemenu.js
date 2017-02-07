@@ -15,7 +15,7 @@ $.fn.mobileMenu = function(options) {
   var defaults = {
       defaultText: 'Navigate to...',
       className: 'select-menu',
-      subMenuClass: 'sub-menu',
+//      subMenuClass: 'sub-menu',
       subMenuDash: '&ndash;'
     },
     settings = $.extend( defaults, options ),
@@ -26,7 +26,7 @@ $.fn.mobileMenu = function(options) {
       $select_menu;
 
     // ad class to submenu list
-    $el.find('ul').addClass(settings.subMenuClass);
+//    $el.find('ul').addClass(settings.subMenuClass);
 
     // Create base menu
     var $select_menu = $('<select />',{
@@ -76,6 +76,3 @@ $.fn.mobileMenu = function(options) {
 
 };
 })(jQuery);
-$(document).ready(function(){
-	$('.sf-menu').mobileMenu();
-});
