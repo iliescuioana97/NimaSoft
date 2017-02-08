@@ -265,6 +265,7 @@ table {
 .container {
     margin-right: auto;
     margin-left: auto;
+    margin-bottom: auto;
     *zoom: 1;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;

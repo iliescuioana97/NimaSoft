@@ -17,7 +17,7 @@
             </div>
         </div>
 
-        <p class="preffix_0 grid_11-2">Your software system’s behavior can drastically affect your business performance. This check verifies that workﬂows run smoothly and are user-friendly before investing into the development.
+        <p class="preffix_0 grid_11-2">Your software system’s behavior can drastically affect your business performance. This check verifies that workflows run smoothly and are user-friendly before investing into the development.
         </p> </br>
 
 

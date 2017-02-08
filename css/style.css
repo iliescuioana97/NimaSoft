@@ -122,7 +122,8 @@ header img{
 .bg-1{
     background:#ffffff;
 }
-.row_block{}
+.row_block{
+}
 
 .itsolutions {
     margin-bottom: 50px;
@@ -764,6 +765,8 @@ ul.list{
 footer{
     padding: 20px 0 17px 0;
     background: #223243;
+    width: 100%;
+    bottom: 0;
 }
 .pr_policy{
     font-size: 13px;
@@ -949,4 +952,8 @@ p{
 .officeimg {
     padding:0 0 37px;
     background: #fafafa;
+}
+
+label {
+    display:block;
 }
