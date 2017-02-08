@@ -14,7 +14,7 @@
                     <li>Nr. Reg. Com.: J22/314/2015</li>
 
                 </ul>
-                <ul class="grid_2" id="gridOne">
+                <ul class="grid_2">
                     <li><h4 class="footer-title">LOCATION</h4></li>
                     <li>Str. Elena Doamna Nr.20-22,</li>
                     <li>Iasi Romania, Cladirea </li>

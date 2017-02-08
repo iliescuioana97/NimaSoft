@@ -30,6 +30,7 @@ body{
     font: 13px/24px 'Open Sans';
     font-weight: 400;
 }
+
 .p-title{
     text-transform: uppercase;
 }
@@ -172,8 +173,8 @@ header img{
     margin-bottom: 23px;
 }
 
-p.center{
-    text-align: center;
+p{
+    text-align: justify;
 }
 
 /* Buttons
@@ -939,4 +940,13 @@ footer{
 
 .box3_1, .box3_2, .box3_3 {
     display: inline-block;
+}
+
+p{
+    text-align: justify;
+}
+
+.officeimg {
+    padding:0 0 37px;
+    background: #fafafa;
 }

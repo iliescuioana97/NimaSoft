@@ -6,7 +6,7 @@
     <div class="container" id="tabs">
         <div class="left-strip"></div>
         <h3 class="preffix_0">Customer Software Development</h3></br>
-        <p class="preffix_0 grid_9" style="margin-bottom:20px;">If you’re looking for a long-term reliable partner to realize new innovative ideas that will provide your customers with additional value and differentiate your business in a tough competitive environment, it is NimaSoftware who delivers the result.
+        <p class="preffix_0 grid_11-2">If you’re looking for a long-term reliable partner to realize new innovative ideas that will provide your customers with additional value and differentiate your business in a tough competitive environment, it is NimaSoftware who delivers the result.
             </br></br>
             From smart customization of the pre-developed platforms to full-cycle custom software development along the client's vision, NimaSoftware is an experienced development partner to deliver cost-effective and reliable custom software solutions that match your unique requirements.
         </p> </br>
@@ -59,7 +59,7 @@
 
 
         <div class="preffix_0 row_block__indent-5">
-            <div class="box3_1 grid_3">        
+            <div class="box3_1 grid_3-2">        
                 <h4>Effective Project Organization</h4>
                 </br>
                 <p>
@@ -120,7 +120,7 @@
 
 
 
-            <div class="box3_2 grid_3 preffix_03">
+            <div class="box3_2 grid_3-2 ">
                 <h4>Optimal Technical Implementation</h4>
                 </br>
                 <p>Our expertise comprises a comprehensive set of various technologies that allows us to execute the most challenging and complex projects and satisfy customer requirements, expectations and preferences. </br></br>
@@ -129,7 +129,7 @@
 
 
 
-            <div class="box3_3 grid_3 preffix_03">
+            <div class="box3_3 grid_3-2 ">
                 <h4>Stringent Quality</h4>
                 </br>
                 <p>Reliable quality assurance is an essential part of any implementation methodology. NimaSoftware has a highly professional and well-equipped independent QA department that takes control over your software quality assurance and audit.</p>
