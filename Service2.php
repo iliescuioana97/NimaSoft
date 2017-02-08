@@ -15,7 +15,7 @@
     </div>
 </div> 
 
-<div class="row info-col_col">
+<div class="row">
     <div class="preffix_01">
         <div class="grid_5 officeimg">
             <img src="images/bursaMoldovei.jpg" alt="">
@@ -41,7 +41,7 @@
 </div> 
 
 
-<div class="row info-col_col">
+<div class="row">
     <div class="preffix_01">
         <div class="grid_5 officeimg">
             <img src="images/office.jpg" alt="">

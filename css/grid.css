@@ -251,7 +251,7 @@ table {
 }
 
 .preffix_01 {
-    margin-left: 80px;
+    margin-left: 320px;
 }
 
 .preffix_04 {
@@ -283,7 +283,7 @@ table {
 @media (min-width: 1200px) and (max-width: 1440px) {
 
     .preffix_01 {
-        margin-left: 200px;
+        margin-left: 270px;
     }
 
     .preffix_3 {
@@ -404,7 +404,7 @@ table {
     }
 
     .preffix_01 {
-        margin-left: 80px;
+        margin-left: 130px;
     }
 
     .preffix_02 {
@@ -523,7 +523,7 @@ table {
     }
 
     .preffix_01 {
-        margin-left: 15px;
+        margin-left: 90px;
     }
 
     .preffix_0 {
@@ -592,7 +592,7 @@ table {
     }
 
     .preffix_01 {
-        margin-left: 30px;
+        margin-left: 120px;
     }
 
     .preffix_02 {
@@ -646,5 +646,11 @@ table {
     row_block__indent-5 {
         margin-bottom: 20px;
         margin-top: 20px;
+    }
+}
+
+@media (max-width: 350px) {
+    .preffix_01 {
+        margin-left: 70px;
     }
 }
