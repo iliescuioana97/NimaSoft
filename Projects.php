@@ -16,7 +16,7 @@
                     <div class="info-col_col info-col_col__img-indent bg">
                         <div class="box">
                             <div class="maxheight">
-                                <a href="images/gallery/truck.jpg" class="thumbs_img">
+                                <a href="images/truck.jpg" class="thumbs_img">
                                     <div>
                                         <div class="lbHover"><span>+</span></div>
                                         <img  style="height:250px;" src="images/truck.jpg" alt="">

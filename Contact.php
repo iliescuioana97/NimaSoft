@@ -1,6 +1,6 @@
 <?php include 'top.php' ?>
 <?php include 'header.php' ?>
-     <title>NimaSoftware - Contact</title>
+<title>NimaSoftware - Contact</title>
 
 
 <!--======= Content ================================-->
@@ -14,16 +14,16 @@
                 <div class="left-strip"></div>
                 <div class="left-block">
                     <h3>Contact Info</h3>
+                    
                     <div class="map">
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d24214.807650104907!2d-73.94846048422478!3d40.65521573400813!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sus!4v1395650655094" style="border:0"></iframe>
+                        <iframe src=https://www.google.com/maps/embed/v1/place?key=AIzaSyDSCJfionN42JT6usWwpHOMD6rhBEMgoXc&q=bursa+moldovei" style="border:0"></iframe>
                     </div>
+                    
                     <div class="contact_details">
-                        <p class="contact_text">Eleo dapibus nibh, vitae tempus tellus leo at turpis.Class aptent taciti sociosqu ad litora bia nostra, per inceptos himenaeos. Cras semper aliquet cursusulla vitae</p>
-                        <p class="adrress">9870 St Vincent Place,<br>Glasgow, DC 45 Fr 45.</p>
-                        <p class="tel"><span>Freephone:</span>+1 800 559 6580</p>
-                        <p class="tel"><span>Telephone:</span>+1 800 603 6035</p>
-                        <p class="tel"><span>FAX:</span>+1 800 889 9898</p>
-                        <p class="mail">Email: <a href="mailto:mail@demolink.org">mail@demolink.org</a></p>
+                        <p class="contact_text">We are loooking forward to meeting you! </br></br> If you need a technological solution to your problems, call us and let's set up and a meeting! We can talk about how useful software products would be for your company, how your issues can be approached, the duration of the implementation and the afferent costs. We can find together the best formula for your success!</p>
+                        <p class="adrress">Str. Elena Doamna Nr.20-22, </br> Cladirea Bursa Moldovei, etaj 3,</br> loc. Iasi, jud. Iasi, Romania</p>
+                        <p class="tel"><span>Telephone:</span>+40 773 397 283</p>
+                        <p class="mail">Email: office@nimasoftware.ro</p>
                     </div>
                 </div>
             </div>
@@ -37,23 +37,23 @@
                         </div>
                         <label class="name">
                             <input type="text" placeholder="Name*:" data-constraints="@Required @JustLetters" />
-                            <span class="empty-message">*This field is required.</span>
-                            <span class="error-message">*This is not a valid name.</span>
+                            <span class="empty-message"></span>
+                            <span class="error-message"></span>
                         </label>                  
                         <label class="email">
                             <input type="text" placeholder="E-mail*:" data-constraints="@Required @Email" />
-                            <span class="empty-message">*This field is required.</span>
-                            <span class="error-message">*This is not a valid email.</span>
+                            <span class="empty-message"></span>
+                            <span class="error-message"></span>
                         </label>
                         <label class="phone">
                             <input type="text" placeholder="Phone:" data-constraints="@Required @JustNumbers"/>
-                            <span class="empty-message">*This field is required.</span>
-                            <span class="error-message">*This is not a valid number.</span>
+                            <span class="empty-message"></span>
+                            <span class="error-message"></span>
                         </label>
                         <label class="message">
                             <textarea placeholder="Message*:" data-constraints='@Required @Length(min=20,max=999999)'></textarea>
-                            <span class="empty-message">*This field is required.</span>
-                            <span class="error-message">*The message is too short.</span>
+                            <span class="empty-message"></span>
+                            <span class="error-message"></span>
                         </label>
                         <div class="clear"></div>
                         <div class="btns"> 
