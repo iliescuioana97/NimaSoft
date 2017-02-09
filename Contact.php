@@ -14,11 +14,11 @@
                 <div class="left-strip"></div>
                 <div class="left-block">
                     <h3>Contact Info</h3>
-                    
+
                     <div class="map">
                         <iframe src=https://www.google.com/maps/embed/v1/place?key=AIzaSyDSCJfionN42JT6usWwpHOMD6rhBEMgoXc&q=bursa+moldovei" style="border:0"></iframe>
                     </div>
-                    
+
                     <div class="contact_details">
                         <p class="contact_text">We are loooking forward to meeting you! </br></br> If you need a technological solution to your problems, call us and let's set up and a meeting! We can talk about how useful software products would be for your company, how your issues can be approached, the duration of the implementation and the afferent costs. We can find together the best formula for your success!</p>
                         <p class="adrress">Str. Elena Doamna Nr.20-22, </br> Cladirea Bursa Moldovei, etaj 3,</br> loc. Iasi, jud. Iasi, Romania</p>
@@ -31,34 +31,37 @@
                 <div class="left-strip"></div>
                 <div class="left-block">
                     <h3>Contact Form</h3>
-                    <form id="form">
-                        <div class="success_wrapper">
-                            <div class="success-message">Contact form submitted</div>
+                    <form id="form" class="" style="margin-left:10px;">
+                        <div class="row" style="margin-bottom:5px;">
+                            <label class="name">
+                                <input class="grid_3" type="text" placeholder="Name*:" data-constraints="@Required @JustLetters" />
+                                <span class="empty-message"></span>
+                                <span class="error-message"></span>
+                            </label> 
                         </div>
-                        <label class="name">
-                            <input type="text" placeholder="Name*:" data-constraints="@Required @JustLetters" />
-                            <span class="empty-message"></span>
-                            <span class="error-message"></span>
-                        </label>                  
-                        <label class="email">
-                            <input type="text" placeholder="E-mail*:" data-constraints="@Required @Email" />
-                            <span class="empty-message"></span>
-                            <span class="error-message"></span>
-                        </label>
-                        <label class="phone">
-                            <input type="text" placeholder="Phone:" data-constraints="@Required @JustNumbers"/>
-                            <span class="empty-message"></span>
-                            <span class="error-message"></span>
-                        </label>
-                        <label class="message">
-                            <textarea placeholder="Message*:" data-constraints='@Required @Length(min=20,max=999999)'></textarea>
-                            <span class="empty-message"></span>
-                            <span class="error-message"></span>
-                        </label>
-                        <div class="clear"></div>
-                        <div class="btns"> 
-                            <a class="link1 float-shadow" href="#" data-type="submit">Send</a>
-                            <a class="link1 float-shadow" href="#" data-type="reset">Clear</a>
+                        <div class="row" style="margin-bottom:5px;">
+                            <label class="email">
+                                <input class="grid_3" type="text" placeholder="E-mail*:" data-constraints="@Required @Email" />
+                                <span class="empty-message"></span>
+                                <span class="error-message"></span>
+                            </label>
+                        </div>
+                        <div class="row" style="margin-bottom:5px;">
+                            <label class="phone">
+                                <input class="grid_3" type="text" placeholder="Phone:" data-constraints="@Required @JustNumbers"/>
+                                <span class="empty-message"></span>
+                                <span class="error-message"></span>
+                            </label>
+                        </div>
+                        <div class="row row_block__indent-2">
+                            <label class="message">
+                                <textarea id="texta" placeholder="Message*:" data-constraints='@Required @Length(min=20,max=999999)'></textarea>
+                                <span class="empty-message"></span>
+                                <span class="error-message"></span>
+                            </label>
+                        </div>
+                        <div class="btns row preffix_05"> 
+                            <input type="submit" class="btn-primary" name="login" value="Submit">
                         </div>
                     </form>
                 </div>
@@ -68,3 +71,33 @@
 </div>
 <?php include 'footer.php' ?>
 
+<style>
+    input[type=text] {
+        width: 60%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        box-sizing: border-box;
+        border-radius: 5%;
+        border: 1px solid #e4e4e4;
+    }
+
+    textarea {
+        width: 60%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        box-sizing: border-box;
+        border-radius: 5%;
+        border: 1px solid #e4e4e4;
+    }
+
+    .btn-primary{
+        background: #0066A2;
+        color: white;
+        border-style: outset;
+        border-color: #0066A2;
+        border-radius: 5%;
+        height: 30px;
+        width: 100px;
+        font: bold 15px;
+    }
+</style>

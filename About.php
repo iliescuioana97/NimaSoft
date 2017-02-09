@@ -177,3 +177,9 @@
 </div>
 
 <?php include 'footer.php' ?>
+
+<style>
+    p {
+        text-align: center;
+    }
+</style>
