@@ -7,10 +7,13 @@
         <div class="left-strip"></div>
         <div class="grid_11-2">
             <h3 class="preffix_0">Devops-as-a-service</h3></br>
-            <p class="preffix_0">NimaSoftware provides DevOps-as-a-Service, automating end-to-end delivery processes and ensuring the scalability and security of large enterprises and newborn startups' infrastructure. We bring your development and operations together by addressing key pain-points in your DevOps spectrum, enabling your business to produce innovative capabilities faster and in an efficient manner.
+            <p class="preffix_0">Whether you’re a small startup or a full-bore enterprise the idea of DevOps is important. Bringing agility to your IT organization is not just nice to have, it’s a requirement to stay on the edge of innovation.</br></br>
+                NimaSoftware can help keep your company moving at the speed of light. If you’re a small organization let our team take the reins and drive your operations forward. If you’re a large enterprise we will help drive the dexterity to push the organization.</br></br>
+                Our team will help provide the best practices for building a robust DevOps team using the best software tools in the industry. Understand how architecting for rapidly changing micro services is an important trend. </br></br>
+                Not only do we handle the DevOps process with ease, the team also takes care of the underlying infrastructure that your applications are running on. We will run, manage, scale, and monitor the servers anywhere you need them. Choose from dozens of infrastructure providers around the world.
             </p> </br>
         </div>
     </div>
-            <div class="push"></div>
+    <div class="push"></div>
 </div>
 <?php include 'footer.php' ?>

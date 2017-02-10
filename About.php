@@ -6,34 +6,34 @@
 
 <!--========= Info in Columns =========-->
 
-<div class="row-with-strip row_block row_block__indent-1 info-col row__style">
+<div class="row-with-strip row_block row_block__indent-1 info-col row__style" style="display: flex;">
     <div class="container">
         <div class="left-strip"></div>
         <h3 class="info-col_title__style" class="company-title">Our Company</h3>
         <div class="row">
             <div class="grid_3">
-                <div class="info-col_col">
+                <div class="info-col_col" style="height:250px;">
                     <i class="fa fa-bar-chart-o"></i>
                     <h4>Verifiable Information</h4>
                     <p>We offer references, models, artifacts and other tangible evidence of the projects that we have elaborated, to prove the quality of our work. Also, testimonies of our past clients are available.</p>
                 </div>
             </div>
             <div class="grid_3">
-                <div class="info-col_col">
+                <div class="info-col_col" style="height:250px;">
                     <i class="fa fa-cogs"></i>
                     <h4>Support</h4>
                     <p>Our company aims to be an integrated part of our clients' companies' success. We offer support at any time during the work week for any type of technical difficulty our clients may encounter.</p>
                 </div>
             </div>
             <div class="grid_3">
-                <div class="info-col_col">
+                <div class="info-col_col" style="height:250px;">
                     <i class="fa fa-calendar"></i>
                     <h4>Ingenuity and Professionalism</h4>
                     <p>Although we base our solutions on sophisticated principles and technologies, they are still easy to use and understand. We know how to make complicated things simple and useful.</p>
                 </div>
             </div>
             <div class="grid_3">
-                <div class="info-col_col">
+                <div class="info-col_col" style="height:250px;">
                     <i class="fa fa-group"></i>
                     <h4>Smart Communication</h4>
                     <p>You will not feel any time difference even if you are located on the other side of the globe. Depending on your requirements, complete project and progress information can be available around the clock.</p>
@@ -55,10 +55,8 @@
                     <h4>Stefan Matei</h4>
                     <p>Project Manager</p>
                     <div class="info_social">
-                        <a href="#"><i class="fa fa-skype"></i></a>
-                        <a href="#"><i class="fa fa-twitter"></i></a><a href="#"></a>
-                        <a href="#"><i class="fa fa-google-plus"></i></a>
-                        <a href="#"><i class="fa fa-dribbble"></i></a>
+                        <a href="stefan@nimasoftware.com"><i class="fa fa-google-plus"></i></a>
+                        <a href="#"><i class="fa fa-linkedin"></i></a>
                     </div>
                 </div>
             </div>
@@ -68,10 +66,8 @@
                     <h4>Stefan Enache</h4>
                     <p>Senior Web Developer</p>
                     <div class="info_social">
-                        <a href="#"><i class="fa fa-skype"></i></a>
-                        <a href="#"><i class="fa fa-twitter"></i></a>
                         <a href="#"><i class="fa fa-google-plus"></i></a>
-                        <a href="#"><i class="fa fa-dribbble"></i></a>
+                        <a href="#"><i class="fa fa-linkedin"></i></a>
                     </div>
                 </div>
             </div>
@@ -81,10 +77,8 @@
                     <h4>Alina-Marina Cucu</h4>
                     <p>Senior Web Developer</p>
                     <div class="info_social">
-                        <a href="#"><i class="fa fa-skype"></i></a>
-                        <a href="#"><i class="fa fa-twitter"></i></a>
                         <a href="#"><i class="fa fa-google-plus"></i></a>
-                        <a href="#"><i class="fa fa-dribbble"></i></a>
+                        <a href="#"><i class="fa fa-linkedin"></i></a>
                     </div>
                 </div>
             </div>
@@ -94,19 +88,14 @@
                     <h4>Cristina Negrutu</h4>
                     <p>Intermediate Web Developer</p>
                     <div class="info_social"><a href="#"></a>
-                        <a href="#"><i class="fa fa-skype"></i></a>
-                        <a href="#"><i class="fa fa-twitter"></i></a>
                         <a href="#"><i class="fa fa-google-plus"></i></a>
-                        <a href="#"><i class="fa fa-dribbble"></i></a>
+                        <a href="#"><i class="fa fa-linkedin"></i></a>
                     </div>
                 </div>
             </div>
         </div>
     </div>
 </div>
-
-
-
 
 
 
@@ -119,10 +108,8 @@
                     <h4>Mihai Pricop</h4>
                     <p>Intermediate Web Developer</p>
                     <div class="info_social">
-                        <a href="#"><i class="fa fa-skype"></i></a>
-                        <a href="#"><i class="fa fa-twitter"></i></a><a href="#"></a>
                         <a href="#"><i class="fa fa-google-plus"></i></a>
-                        <a href="#"><i class="fa fa-dribbble"></i></a>
+                        <a href="#"><i class="fa fa-linkedin"></i></a>
                     </div>
                 </div>
             </div>
@@ -132,10 +119,8 @@
                     <h4>Ioana Iliescu</h4>
                     <p>Junior Web Developer</p>
                     <div class="info_social">
-                        <a href="#"><i class="fa fa-skype"></i></a>
-                        <a href="#"><i class="fa fa-twitter"></i></a>
                         <a href="#"><i class="fa fa-google-plus"></i></a>
-                        <a href="#"><i class="fa fa-dribbble"></i></a>
+                        <a href="#"><i class="fa fa-linkedin"></i></a>
                     </div>
                 </div>
             </div>
@@ -145,10 +130,8 @@
                     <h4>Valerica Motoc</h4>
                     <p>Sales manager</p>
                     <div class="info_social">
-                        <a href="#"><i class="fa fa-skype"></i></a>
-                        <a href="#"><i class="fa fa-twitter"></i></a>
                         <a href="#"><i class="fa fa-google-plus"></i></a>
-                        <a href="#"><i class="fa fa-dribbble"></i></a>
+                        <a href="#"><i class="fa fa-fa-linkedin"></i></a>
                     </div>
                 </div>
             </div>
@@ -167,7 +150,7 @@
     <div class="container">
         <div class="left-strip"></div>
         <div class="left-block">
-            <h3>Need IT Solutions?</h3>
+            <h3 style="margin-top: 15px;">Need IT Solutions?</h3>
             <img src="images/itsolution_res.jpg" alt="">
             <p>Are you a young professional looking forward to open a business or a representative of a big corporation trying to reach its full potential? Are you trying to find solutions in managing your stock, employees, finances, documents or clients or just looking to get more exposure on the big web? Have you ever thought that technology might be your answer?</p>
             </br>

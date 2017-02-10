@@ -124,7 +124,7 @@
 							,fax:getValue($('label.fax input'))
 							,state:getValue($('label.state input'))
 							,message:getValue($('label.message textarea'))
-							,owner_email:opt.ownerEmail||'#'
+							,owner_email:opt.ownerEmail||'office@nimasoftware.ro'
 							,stripHTML:opt.stripHTML
 						}
 						,success: function(e){							
