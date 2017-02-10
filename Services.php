@@ -6,9 +6,9 @@
 
 <!--========= Text Block & List =========-->
 
-<div class="row-with-strip row_block row_block__indent-3 row__style">
+<div class="row_block row_block__indent-3 row__style">
     <div class="container">        
-        <div class="left-strip"></div>
+        <div class="left-strip" style="height:320px"></div>;
         <div class="row">
             <div class="grid_8">
                 <div class="left-block title__indent">
@@ -84,7 +84,6 @@
                                 </a>
                             </li>
                   
-                            </li>
                         </ul>
                     </div>
                 </div>
@@ -94,5 +93,6 @@
             </div>
         </div>
     </div>
+        <div class="push"></div>
 </div>
 <?php include 'footer.php' ?>

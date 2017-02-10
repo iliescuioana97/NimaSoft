@@ -51,7 +51,7 @@
                     <h3>Our Mission</h3>
                     <p class="p__indent">We plan on offering our clients the support they need in developing technological solutions to their every day struggles.</p>
                     <p>We believe that there is no problem that cannot be solved through hard work and dedication. </p>
-                    <a href="#" class="btn">
+                    <a href="About.php" class="btn">
                         <div class="btn_arrow">
                             <i class="fa fa-angle-right"></i>
                         </div>
