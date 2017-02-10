@@ -2,7 +2,7 @@
 <?php include 'header.php' ?>
 <title>NimaSoftware - Services</title>
 
-<div class="row-with-strip row_block row_block__indent-1 row__style gallery thumbs">
+<div class="wrapper row-with-strip row_block row_block__indent-1 row__style gallery thumbs">
     <div class="container" id="tabs">
         <div class="left-strip"></div>
         <div class="grid_11-2">
@@ -11,5 +11,6 @@
             </p> </br>
         </div>
     </div>
+            <div class="push"></div>
 </div>
 <?php include 'footer.php' ?>

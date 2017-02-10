@@ -10,7 +10,7 @@
         </p> </br>
 
 
-        <div class="preffix_0">
+        <div class="preffix_0 row">
             <h4 class="preffix_0">ISSUES</h4>
             <div class="grid_11-2">
                 <div class="row">
@@ -36,7 +36,7 @@
         </div>
 
 
-        <div class="preffix_0">
+        <div class="preffix_0 row_block__indent-1">
             <h4 class="preffix_0">Virtualization Solution</h4>
                 <div class="grid_11-2">
                     <div class="row">
