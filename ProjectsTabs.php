@@ -33,7 +33,7 @@
                         </div>
 
                         <div class=" row_block__indent-2">
-                            <img class="grid_3" src="images/fabrics.jpg" alt="">
+                            <img class="grid_3" src="images/sophia-logo.jpg" alt="">
                             <h4>Sophia ERP</h4>
                             <p>Sophia ERP is a full point of sale that offers to the fitted company a suite of tools, from tracking sales and inventory to rich analytics and business financing. It is one service for an entire business, from a register in your pocket to reports on your laptop. Whether your business has a small stock and few locations or it is a big corporations with loads of information to manage, we can make the administration software for you.</p>
                         </div>
@@ -60,23 +60,24 @@
                         </div> </div>
 
                     <div id="tab4" class="tab">
-                        <div class=" row_block__indent-2">
-                            <img class="grid_3" src="images/cartiromanesti.jpg" alt="">
+                        <div class="">
+                            <img class="grid_3" src="images/avocat-logo.jpg" alt="">
                             <h4>Avocat Carmen Diaconu</h4>
-                            <p>We helped promote the professionalism and education of the client regarding the judicial mechanisms through websites for our local lawyers' offices.</p>
+                            <p>We helped promote the professionalism and education of the client regarding the judicial mechanisms through websites for our local lawyers' offices.We helped promote the professionalism and education of the client regarding the judicial mechanisms through websites for our local lawyers' offices.</p>
                         </div> 
-                          <div class="">
+                        <div class="row_block__indent-2">
                             <img class="grid_3" src="images/sophia-logo.jpg" alt="">
-                            <h4>Sophia Romania</h4>
+                            <h4>Blog Sophia Romania</h4>
                             <p>Sophia is a big chain of interior design items, which started off in 2004, inspired by Indian patterns and motifs. The company later changed its style to a more European one. Our company helped implement Sophia's elegance into its website, by creating a custom catalog for their products, an easy ordering system and an incredible portfolio of their accomplishments.</p>
                         </div>
-                    </div>   
-                </div>
+                    </div>                        
+                </div>   
             </div>
         </div>
-
-
     </div>
+
+
+</div>
 </div>
 </div>
 
