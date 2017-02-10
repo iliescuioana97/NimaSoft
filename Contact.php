@@ -16,7 +16,7 @@
                     <h3>Contact Info</h3>
 
                     <div class="map">
-                        <iframe src=https://www.google.com/maps/embed/v1/place?key=AIzaSyDSCJfionN42JT6usWwpHOMD6rhBEMgoXc&q=bursa+moldovei" style="border:0"></iframe>
+                        <iframe src=https://www.google.com/maps/embed/v1/place?key=AIzaSyDSCJfionN42JT6usWwpHOMD6rhBEMgoXc&q=nima+software" style="border:0"></iframe>
                     </div>
 
                     <div class="contact_details">
