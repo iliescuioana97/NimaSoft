@@ -6,7 +6,7 @@
 
 <!--========= Text Block & List =========-->
 
-<div class="row_block row_block__indent-3 row__style">
+<div class="wrapper row_block row_block__indent-3 row__style">
     <div class="container">        
         <div class="left-strip" style="height:320px"></div>;
         <div class="row">

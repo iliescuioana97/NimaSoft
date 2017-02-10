@@ -2,7 +2,7 @@
 <?php include 'header.php' ?>
 <title>NimaSoftware - Projects</title>
 
-<div class="row-with-strip row_block row_block__indent-1 row__style gallery thumbs">
+<div class="wrapper row-with-strip row_block row_block__indent-1 row__style gallery thumbs">
     <div class="container" id="tabs">
         <div class="left-strip"></div>
         <h3 class="preffix_5">Latest Projects</h3>
@@ -76,6 +76,7 @@
         </div>
     </div>
 
+        <div class="push"></div>
 
 </div>
 
