@@ -15,13 +15,13 @@
     </div>
 </div> 
 
-<div class="row">
-    <div class="preffix_01">
+<div class="row_block__indent-2 container">
+    <div class="preffix_0">
         <div class="grid_5 officeimg">
             <img src="images/bursaMoldovei.jpg" alt="">
             <p class="grid_3 preffix_04">"Bursa Moldovei" Office Building</p>
         </div>
-        <div class="grid_5 officeimg">
+        <div class="grid_5 preffix_04 officeimg">
             <img src="images/view.jpg" alt="">
             <p class="grid_3 preffix_04">View from our office building</p>
 
@@ -29,25 +29,25 @@
     </div>
 </div>
 
-
-<div class="row-with-strip row_block row_block__indent-1 row__style gallery thumbs">
-    <div class="container" id="tabs">
-        <div class="left-strip"></div>
+<div class="row-with-strip row_block row_block__indent-2 row__style gallery thumbs">
+    <div class="container">
         <p class="preffix_0 grid_11-2"> 
-            AMAZING TECHNOLOGIES WE USE TEXT
+            Our company uses the best technologies available on the market to make sure your software
+            products have the best quality, meet your needs perfectly and are delivered on time.
+            We make a priority out of updating our software & hardware equipment and our code to the 
+            newest standards of the tech world.
         </p> </br>
-
     </div>
 </div> 
 
 
-<div class="row">
-    <div class="preffix_01">
+<div class="row_block__indent-1 container">
+    <div class="preffix_0">
         <div class="grid_5 officeimg">
             <img src="images/office.jpg" alt="">
             <p class="grid_3 preffix_04">Our fully-equipped offices</p>
         </div>
-        <div class="grid_5 officeimg">
+        <div class="grid_5 preffix_04 officeimg">
             <img src="images/office2.jpg" alt="">
             <p class="grid_3 preffix_04">We use the most modern equipment</p>
 
