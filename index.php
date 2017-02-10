@@ -8,7 +8,7 @@
 <!--========= Showcase =========-->
 
 <div class="showcase">
-    <img src="images/frontpageimg_res.jpg" alt="">
+    <img src="images/showcase-1.jpg" alt="">
     <div class="container">
         <div class="showcase_text">
             <h2 class="slogan__style-1">WE WILL</h2>

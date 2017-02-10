@@ -63,12 +63,12 @@
                         <div class="">
                             <img class="grid_3" src="images/avocat-logo.jpg" alt="">
                             <h4>Avocat Carmen Diaconu</h4>
-                            <p>We helped promote the professionalism and education of the client regarding the judicial mechanisms through websites for our local lawyers' offices.We helped promote the professionalism and education of the client regarding the judicial mechanisms through websites for our local lawyers' offices.</p>
+                            <p>We helped promote the professionalism and education of the client regarding the judicial mechanisms through websites for our local lawyers' offices. Our company supports not only corporations or small businesses, but also offers help to individual professionals.</p>
                         </div> 
                         <div class="row_block__indent-2">
                             <img class="grid_3" src="images/sophia-logo.jpg" alt="">
                             <h4>Blog Sophia Romania</h4>
-                            <p>Sophia is a big chain of interior design items, which started off in 2004, inspired by Indian patterns and motifs. The company later changed its style to a more European one. Our company helped implement Sophia's elegance into its website, by creating a custom catalog for their products, an easy ordering system and an incredible portfolio of their accomplishments.</p>
+                            <p>Sophia is a big chain of interior design items, which started off in 2004, inspired by Indian patterns and motifs. The company later changed its style to a more European one. Our company helped implement Sophia's elegance into its blog, which helps the company maintain a strong connection with its clients and keep them posted with their new products and news.</p>
                         </div>
                     </div>                        
                 </div>   
