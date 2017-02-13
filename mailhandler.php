@@ -94,6 +94,8 @@ if (isset($_POST['submit'])) {
             'X-Mailer: PHP/' . phpversion();
 
     @mail($email_to, $email_subject, $email_message, $headers);
+    echo "<script>alert('Form successfully sent'); window.location.href='Contact.php';</script></br>";
+    die();
 }
 
 $url = "Contact.php";

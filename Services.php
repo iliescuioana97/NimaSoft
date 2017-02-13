@@ -19,32 +19,32 @@
                     <div class="grid_4">
                         <ul class="list left-block">
                             <li>
-                                <a href="Service1.php">
+                                <a href="Technology_Consulting.php">
                                     <p>Technology Consulting</p>
                                 </a>
                             </li>
                             <li>
-                                <a href="Service2.php">
+                                <a href="Dedicated_Development_Centers.php">
                                     <p>Dedicated Development Centers</p>
                                 </a>
                             </li>
                             <li>
-                                <a href="Service3.php">
+                                <a href="Software_Prototyping.php">
                                     <p>Software Prototyping</p>
                                 </a>
                             </li>
                             <li>
-                                <a href="Service4.php">
+                                <a href="Software_Product_Development.php">
                                     <p>Software Product Development</p>
                                 </a>
                             </li>
                             <li>
-                                <a href="Service5.php">
+                                <a href="Enterprise_Application_Integration.php">
                                     <p>Enterprise Application Integration</p>
                                 </a>
                             </li>
                             <li>
-                                <a href="Service6.php">
+                                <a href="Customer_Software_Development.php">
                                     <p>Custom Software Development </p>
                                 </a>
                             </li>
@@ -55,31 +55,31 @@
                         <ul class="list left-block__device">
                             <li>
                                    <li>
-                                <a href="Service7.php">
+                                       <a href="Software_QA_and_Testing.php">
                                     <p>Software QA and Testing</p>
                                 </a>
                             </li>
-                                <a href="Service8.php">
+                            <a href="Application_Security.php">
                                     <p>Application Security</p>
                                 </a>
                             </li>
                             <li>
-                                <a href="Service9.php">
+                                <a href="Virtualization_Management.php">
                                     <p>Virtualization Management</p>
                                 </a>
                             </li>
                             <li>
-                                <a href="Service10.php">
+                                <a href="Devops-as-a-service.php">
                                     <p>DevOps-As-A-Service</p>
                                 </a>
                             </li>
                             <li>
-                                <a href="Service11.php">
+                                <a href="Customer_Service.php">
                                     <p>Customer Service</p>
                                 </a>
                             </li>
                             <li>
-                                <a href="Service12.php">
+                                <a href="Maintenance_and_Support.php">
                                     <p>Maintenance and Support</p>
                                 </a>
                             </li>

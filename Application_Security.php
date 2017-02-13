@@ -30,7 +30,9 @@
             </div>
         </div>
 
-        <p class="preffix_0 grid_11-2 row_block__indent-1">Application security encompasses measures taken throughout the code's life-cycle to prevent gaps in the security policy of an application or the underlying system (vulnerabilities) through flaws in the design, development, deployment, upgrade, or maintenance or database of the application.
+        <p class="preffix_0 grid_11-2 row_block__indent-1">
+            Our company offers a complete line of audit services that cover a diverse range of subject-matter analysis and detailed system reviews. A Security Review highlights the strengths and weaknesses of a company’s security infrastructure, both internally and externally. Detailed analysis of key criteria will document Physical Security, Network Security and Computer Systems Security.
+            Back-up and Disaster Recovery Audits offer assessments on the policies, procedures and plans that organizations have in place to respond to major business interruptions. Industry-specific system analysis offers in-depth examinations of technology systems within an organization's infrastructure. Finally, anti-virus and anti-spyware assessments, detailed reviews on policies and procedures of virus and spyware management identify external threats and offer plans on keeping your company safe.
         </p> </br>
 
     </div>
