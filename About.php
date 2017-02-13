@@ -1,6 +1,6 @@
 <?php include 'top.php' ?>
 <?php include 'header.php' ?>
-     <title>NimaSoftware - About</title>
+<title>NimaSoftware - About</title>
 
 <!--======= Content ================================-->
 
@@ -55,8 +55,10 @@
                     <h4>Stefan Matei</h4>
                     <p>Project Manager</p>
                     <div class="info_social">
-                        <a href="stefan@nimasoftware.com"><i class="fa fa-google-plus"></i></a>
-                        <a href="#"><i class="fa fa-linkedin"></i></a>
+                        <a href="mailto:stefan.matei@cargoplanning.com">
+                            <i class="email fa fa-envelope" aria-hidden="true"></i>
+                        </a>
+                        <a href="https://www.linkedin.com/in/stefan-matei-84a22310/"><i class="fa fa-linkedin"></i></a>
                     </div>
                 </div>
             </div>
@@ -66,7 +68,9 @@
                     <h4>Stefan Enache</h4>
                     <p>Senior Web Developer</p>
                     <div class="info_social">
-                        <a href="#"><i class="fa fa-google-plus"></i></a>
+                        <a href="mailto:stefan@cargoplanning.com">
+                            <i class="email fa fa-envelope" aria-hidden="true"></i>
+                        </a>
                         <a href="#"><i class="fa fa-linkedin"></i></a>
                     </div>
                 </div>
@@ -77,7 +81,9 @@
                     <h4>Alina-Marina Cucu</h4>
                     <p>Senior Web Developer</p>
                     <div class="info_social">
-                        <a href="#"><i class="fa fa-google-plus"></i></a>
+                        <a href="mailto:alina@cargoplanning.com">
+                            <i class="email fa fa-envelope" aria-hidden="true"></i>
+                        </a>
                         <a href="#"><i class="fa fa-linkedin"></i></a>
                     </div>
                 </div>
@@ -88,7 +94,9 @@
                     <h4>Cristina Negrutu</h4>
                     <p>Intermediate Web Developer</p>
                     <div class="info_social"><a href="#"></a>
-                        <a href="#"><i class="fa fa-google-plus"></i></a>
+                        <a href="mailto:cristina@cargoplanning.com">
+                            <i class="email fa fa-envelope" aria-hidden="true"></i>
+                        </a>
                         <a href="#"><i class="fa fa-linkedin"></i></a>
                     </div>
                 </div>
@@ -108,7 +116,9 @@
                     <h4>Mihai Pricop</h4>
                     <p>Intermediate Web Developer</p>
                     <div class="info_social">
-                        <a href="#"><i class="fa fa-google-plus"></i></a>
+                        <a href="mailto:mihai@cargoplanning.com">
+                            <i class="email fa fa-envelope" aria-hidden="true"></i>
+                        </a>                       
                         <a href="#"><i class="fa fa-linkedin"></i></a>
                     </div>
                 </div>
@@ -119,7 +129,9 @@
                     <h4>Ioana Iliescu</h4>
                     <p>Junior Web Developer</p>
                     <div class="info_social">
-                        <a href="#"><i class="fa fa-google-plus"></i></a>
+                        <a href="mailto:iliescuioana97@gmail.com">
+                            <i class="email fa fa-envelope" aria-hidden="true"></i>
+                        </a>
                         <a href="#"><i class="fa fa-linkedin"></i></a>
                     </div>
                 </div>
@@ -130,14 +142,15 @@
                     <h4>Valerica Motoc</h4>
                     <p>Sales manager</p>
                     <div class="info_social">
-                        <a href="#"><i class="fa fa-google-plus"></i></a>
-                        <a href="#"><i class="fa fa-fa-linkedin"></i></a>
+                        <a href="mailto:valerica@cargoplanning.com">
+                            <i class="email fa fa-envelope" aria-hidden="true"></i>
+                        </a>
+                        <a href="https://www.linkedin.com/in/valerica-motoc-61796152/"><i class="fa fa-fa-linkedin"></i></a>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-</div>
 </div>
 
 
@@ -165,4 +178,7 @@
     p {
         text-align: center;
     }
+    
+
 </style>
+
