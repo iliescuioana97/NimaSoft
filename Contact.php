@@ -25,7 +25,7 @@
                         <p class="contact_text">We are looking forward to meeting you! </br></br> If you need a technological solution to your problems, call us and let's set up and a meeting! We can talk about how useful software products would be for your company, how your issues can be approached, the duration of the implementation and the afferent costs. We can find together the best formula for your success!</p>
                         <p class="adrress">Str. Elena Doamna Nr.20-22, </br> Cladirea Bursa Moldovei, etaj 3,</br> loc. Iasi, jud. Iasi, Romania</p>
                         <p class="tel"><span>Telephone:</span>+40 773 397 283</p>
-                        <p class="mail">Email: office@nimasoftware.ro</p>
+                        <p class="mail">Email: office@nimasoftware.com</p>
                     </div>
                 </div>
             </div>

@@ -5,7 +5,7 @@ if (isset($_POST['submit'])) {
 
 
     // EDIT THE 2 LINES BELOW AS REQUIRED
-    $email_to = "office@nimasoftware.ro";
+    $email_to = "office@nimasoftware.com";
 
     $email_subject = "Client message";
 
