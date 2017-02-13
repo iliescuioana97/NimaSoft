@@ -25,7 +25,7 @@
                     <li>Phone Number:</li>
                     <li>+40 773 397 283</li>
                     <li>Email address:</li>
-                    <li>office@nimasoftware.ro</li>
+                    <li>office@nimasoftware.com</li>
                 </ul>
                 <ul class="grid_2">
                     <li><h4 class="footer-title">Contact Us</h4></li>
